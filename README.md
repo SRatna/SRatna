@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sushanta.
 - 👀 I’m interested in web development and computer vision
-- 🌱 I’m currently learning shopify app development.
+- 🌱 I’m currently developing shopify app.
 - 📫 You can always write me on adhikariratna52 at gmail.com.
 
 <!---
